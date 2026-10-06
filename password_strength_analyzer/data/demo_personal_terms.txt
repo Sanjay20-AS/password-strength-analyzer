@@ -1,0 +1,6 @@
+# Optional synthetic terms used only for tests/demo documentation.
+example
+sanjay
+student
+college
+company
